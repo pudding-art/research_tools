@@ -1,0 +1,182 @@
+[1] S. Ren, K. He, R. Girshick, and J. Sun, "Faster r-cnn: Towards realtime object detection with region proposal networks," TPAMI, vol. 39, no. 6, pp. 1137–1149, 2017.
+[2] T. Lin, P. Dollár, R. Girshick, K. He, B. Hariharan, and S. Belongie, "Feature pyramid networks for object detection," in CVPR, 2017, pp. 2117–2125.
+[3] T. Lin, P. Goyal, R. Girshick, K. He, and P. Dollár, "Focal loss for dense object detection," TPAMI, vol. 42, no. 2, pp. 318–327, 2020.
+[4] Z. Tian, C. Shen, H. Chen, and T. He, "Fcos: A simple and strong anchor-free object detector," TPAMI, vol. 44, no. 4, pp. 1922–1933, 2022.
+[5] N. Carion, F. Massa, G. Synnaeve, N. Usunier, A. Kirillov, and S. Zagoruyko, "End-to-end object detection with transformers," in ECCV, 2020, pp. 213–229.
+[6] T. Lin, M. Maire, S. Belongie, J. Hays, P. Perona, D. Ramanan, P. Dollár, and C. L. Zitnick, "Microsoft coco: Common objects in context," in ECCV, 2014, pp. 740–755.
+[7] X. Yu, Y. Gong, N. Jiang, Q. Ye, and Z. Han, "Scale match for tiny person detection," in WACV, 2020, pp. 1257–1265.
+[8] S. Yang, P. Luo, C. C. Loy, and X. Tang, "Wider face: A face detection benchmark," in CVPR, 2016, pp. 5525–5533.
+[9] X. Dai, Y. Chen, B. Xiao, D. Chen, M. Liu, L. Yuan, and L. Zhang, "Dynamic head: Unifying object detection heads with attentions," in CVPR, 2021, pp. 7373–7382.
+[10] K. He, X. Zhang, S. Ren, and J. Sun, "Deep residual learning for image recognition," in CVPR, 2016, pp. 770–778.
+[11] S. Xie, R. Girshick, P. Dollár, Z. Tu, and K. He, "Aggregated residual transformations for deep neural networks," in CVPR, 2017, pp. 1492–1500.
+[12] S.-H. Gao, M.-M. Cheng, K. Zhao, X.-Y. Zhang, M.-H. Yang, and P. Torr, "Res2net: A new multi-scale backbone architecture," TPAMI, vol. 43, no. 2, pp. 652–662, 2021.
+[13] L. Liu, W. Ouyang, X. Wang, P. Fieguth, J. Chen, X. Liu, and M. Pietikäinen, "Deep learning for generic object detection: A survey," IJCV, vol. 128, no. 2, pp. 261–318, 2020.
+[14] Z.-Q. Zhao, P. Zheng, S.-t. Xu, and X. Wu, "Object detection with deep learning: A review," TNNLS, vol. 30, no. 11, pp. 3212–3232, 2019.
+[15] D. Geronimo, A. M. Lopez, A. D. Sappa, and T. Graf, "Survey of pedestrian detection for advanced driver assistance systems," TPAMI, vol. 32, no. 7, pp. 1239–1258, 2009.
+[16] P. Dollar, C. Wojek, B. Schiele, and P. Perona, "Pedestrian detection: An evaluation of the state of the art," TPAMI, vol. 34, no. 4, pp. 743–761, 2011.
+[17] J. Cao, Y. Pang, J. Xie, F. S. Khan, and L. Shao, "From handcrafted to deep features for pedestrian detection: A survey," TPAMI, pp. 1–1, 2021.
+[18] Q. Ye and D. Doermann, "Text detection and recognition in imagery: A survey," TPAMI, vol. 37, no. 7, pp. 1480–1500, 2014.
+[19] G. Cheng and J. Han, "A survey on object detection in optical remote sensing images," ISPRS J. Photogramm. Remote Sens., vol. 117, pp. 11–28, 2016.
+[20] K. Li, G. Wan, G. Cheng, L. Meng, and J. Han, "Object detection in optical remote sensing images: A survey and a new benchmark," ISPRS J. Photogramm. Remote Sens., vol. 159, pp. 296–307, 2020.
+[21] M. Jensen et al., "Vision for looking at traffic lights: Issues, survey, and perspectives," IEEE Trans. Intell. Transp. Syst., vol. 17, no. 7, pp. 1800–1815, 2016.
+[22] A. Boukerche and Z. Hou, "Object detection using deep learning methods in traffic scenarios," ACM Comput Surv, vol. 54, no. 2, pp. 1–35, 2021.
+[23] K. Oksuz, B. C. Cam, S. Kalkan, and E. Akbas, "Imbalance problems in object detection: A review," TPAMI, vol. 43, no. 10, pp. 3388–3415, 2020.
+[24] D. Zhang, J. Han, G. Cheng, and M.-H. Yang, "Weakly supervised object localization and detection: A survey," TPAMI, pp. 1–1, 2021.
+[25] K. Tong and Y. Wu, "Deep learning-based detection from the perspective of small or tiny objects: A survey," Image Vis Comput, vol. 123, p. 104471, 2022.
+[26] Y. Liu, P. Sun, N. Wergeles, and Y. Shang, "A survey and performance evaluation of deep learning methods for small object detection," Expert Syst. Appl., vol. 172, p. 114602, 2021.
+[27] G. Chen, "A survey of the four pillars for small object detection: Multiscale representation, contextual information, superresolution, and region proposal," IEEE Trans. Syst., Man, Cybern. Syst., vol. 52, no. 2, pp. 936–953, 2022.
+[28] C. Chen, M.-Y. Liu, O. Tuzel, and J. Xiao, "R-cnn for small object detection," in ACCV, 2016, pp. 214–230.
+[29] X. Yu et al., "Object localization under single coarse point supervision," in CVPR, 2022, pp. 4868–4877.
+[30] J. Ding et al., "Object detection in aerial images: A large-scale benchmark and challenges," TPAMI, pp. 1–1, 2021.
+[31] M. Everingham, L. Van Gool, C. K. Williams, J. Winn, and A. Zisserman, "The pascal visual object classes (voc) challenge," IJCV, vol. 88, no. 2, pp. 303–338, 2010.
+[32] J. Deng, W. Dong, R. Socher, L.-J. Li, K. Li, and L. Fei-Fei, "Imagenet: A large-scale hierarchical image database," in CVPR, 2009, pp. 248–255.
+[33] G. Neuhold, T. Ollmann, S. R. Bul o, and P. Kontschieder, "The mapillary vistas dataset for semantic understanding of street scenes," in ICCV, 2017, pp. 5000–5009.
+[34] D. G. Lowe, "Distinctive image features from scale-invariant keypoints," IJCV, vol. 60, no. 2, pp. 91–110, 2004.
+[35] N. Dalal and B. Triggs, "Histograms of oriented gradients for human detection," in CVPR, 2005, pp. 886–893.
+[36] H. Bay, A. Ess, T. Tuytelaars, and L. Van Gool, "Speeded-up robust features (surf)," Comput Vis Image Underst, vol. 110, no. 3, pp. 346–359, 2008.
+[37] C. Cortes and V. Vapnik, "Support-vector networks," Mach Learn, vol. 20, no. 3, pp. 273–297, 1995.
+[38] T. K. Ho, "Random decision forests," in ICDAR, 1995, pp. 278282.
+[39] A. Krizhevsky, I. Sutskever, and G. E. Hinton, "Imagenet classification with deep convolutional neural networks," in NeurIPS, 2012, pp. 1097–1105.
+[40] R. Girshick, J. Donahue, T. Darrell, and J. Malik, "Region-based convolutional networks for accurate object detection and segmentation," TPAMI, vol. 38, no. 1, pp. 142–158, 2015.
+[41] H. Noh, S. Hong, and B. Han, "Learning deconvolution network for semantic segmentation," in ICCV, 2015, pp. 1520–1528.
+[42] L. Chen, H. Zheng, Z. Yan, and Y. Li, "Discriminative region mining for object detection," TMM, vol. 23, pp. 4297–4310, 2021.
+[43] Z. Qin, Z. Li, Z. Zhang, Y. Bao, G. Yu, Y. Peng, and J. Sun, "Thundernet: Towards real-time generic object detection on mobile devices," in ICCV, 2019, pp. 6717–6726.
+[44] J. Redmon, S. Divvala, R. Girshick, and A. Farhadi, "You only look once: Unified, real-time object detection," in CVPR, 2016, pp. 779–788.
+[45] J. Redmon and A. Farhadi, "Yolov3: An incremental improvement," arXiv preprint arXiv:1804.02767, 2018.
+[46] R. Girshick, "Fast r-cnn," in ICCV, 2015, pp. 1440–1448.
+[47] X. Zhou, D. Wang, and P. Krähenbühl, "Objects as points," arXiv preprint arXiv:1904.07850, 2019.
+[48] K. Duan, S. Bai, L. Xie, H. Qi, Q. Huang, and Q. Tian, "Centernet: Keypoint triplets for object detection," in ICCV, 2019, pp. 65696578.
+[49] K. He, X. Zhang, S. Ren, and J. Sun, "Spatial pyramid pooling in deep convolutional networks for visual recognition," TPAMI, vol. 37, no. 9, pp. 1904–1916, 2015.
+[50] W. Liu et al., "Ssd: Single shot multibox detector," in ECCV, 2016, pp. 21–37.
+[51] H. Law and J. Deng, "Cornernet: Detecting objects as paired keypoints," in ECCV, 2018, pp. 734–750.
+[52] X. Zhu, W. Su, L. Lu, B. Li, X. Wang, and J. Dai, "Deformable detr: Deformable transformers for end-to-end object detection," in ICLR, 2020.
+[53] Y. Ma, S. Liu, Z. Li, and J. Sun, "Iqdet: Instance-wise quality distribution sampling for object detection," in CVPR, 2021, pp. 1717–1725.
+[54] K. Kim and H. S. Lee, "Probabilistic anchor assignment with iou prediction for object detection," in ECCV, 2020, pp. 355–371.
+[55] M. Kisantal, Z. Wojna, J. Murawski, J. Naruniec, and K. Cho, "Augmentation for small object detection," arXiv preprint arXiv:1902.07296, 2019.
+[56] C. Chen, Y. Zhang, Q. Lv, S. Wei, X. Wang, X. Sun, and J. Dong, "Rrnet: A hybrid detector for object detection in drone-captured images," in ICCVW, 2019, pp. 100–108.
+[57] X. Zhang, E. Izquierdo, and K. Chandramouli, "Dense and small object detection in uav vision based on cascade network," in ICCVW, 2019, pp. 118–126.
+[58] X. Wang, D. Zhu, and Y. Yan, "Towards efficient detection for small objects via attention-guided detection network and data augmentation," Sensors, vol. 22, no. 19, p. 7663, 2022.
+[59] B. Bosquet et al., "A full data augmentation pipeline for small object detection based on generative adversarial networks," Pattern Recognition, vol. 133, p. 108998, 2023.
+[60] S. Zhang, X. Zhu, Z. Lei, H. Shi, X. Wang, and S. Z. Li, "S3fd: Single shot scale-invariant face detector," in ICCV, 2017, pp. 192201.
+[61] C. Zhu, R. Tao, K. Luu, and M. Savvides, "Seeing small faces from robust anchor’s perspective," in CVPR, 2018, pp. 5127–5136.
+[62] C. Xu, J. Wang, W. Yang, and L. Yu, "Dot distance for tiny object detection in aerial images," in CVPRW, 2021, pp. 1192–1201.
+[63] C. Xu, J. Wang, W. Yang, H. Yu, L. Yu, and G.-S. Xia, "Rfla: Gaussian receptive based label assignment for tiny object detection," in ECCV, 2022.
+[64] P. Dollár, R. Appel, S. Belongie, and P. Perona, "Fast feature pyramids for object detection," TPAMI, vol. 36, no. 8, pp. 15321545, 2014.
+[65] P. F. Felzenszwalb, R. B. Girshick, D. McAllester, and D. Ramanan, "Object detection with discriminatively trained part-based models," TPAMI, vol. 32, no. 9, pp. 1627–1645, 2010.
+[66] E. H. Adelson, C. H. Anderson, J. R. Bergen, P. J. Burt, and J. M. Ogden, "Pyramid methods in image processing," RCA engineer, vol. 29, no. 6, pp. 33–41, 1984.
+[67] B. Hariharan, P. Arbelaez, R. Girshick, and J. Malik, "Object instance segmentation and fine-grained localization using hypercolumns," TPAMI, vol. 39, no. 4, pp. 627–639, 2016.
+[68] H. Zhao, J. Shi, X. Qi, X. Wang, and J. Jia, "Pyramid scene parsing network," in CVPR, 2017, pp. 6230–6239.
+[69] F. Yang, W. Choi, and Y. Lin, "Exploit all the layers: Fast and accurate cnn object detector with scale dependent pooling and cascaded rejection classifiers," in CVPR, 2016, pp. 2129–2137.
+[70] Z. Cai, Q. Fan, R. S. Feris, and N. Vasconcelos, "A unified multi-scale deep convolutional neural network for fast object detection," in ECCV, 2016, pp. 354–370.
+[71] J. Li et al., "Dsfd: Dual shot face detector," in CVPR, 2019, pp. 5055–5064.
+[72] G. Ghiasi, T.-Y. Lin, and Q. V. Le, "Nas-fpn: Learning scalable feature pyramid architecture for object detection," in CVPR, 2019, pp. 7029–7038.
+[73] M. Tan, R. Pang, and Q. V. Le, "Efficientdet: Scalable and efficient object detection," in CVPR, 2020, pp. 10 778–10 787.
+[74] S. Qiao, L.-C. Chen, and A. Yuille, "Detectors: Detecting objects with recursive feature pyramid and switchable atrous convolution," in CVPR, 2021, pp. 10 208–10 219.
+[75] J. Li, X. Liang, S. Shen, T. Xu, J. Feng, and S. Yan, "Scale-aware fast r-cnn for pedestrian detection," TMM, vol. 20, no. 4, pp. 985–996, 2017.
+[76] M. Najibi, P. Samangouei, R. Chellappa, and L. S. Davis, "Ssh: Single stage headless face detector," in ICCV, 2017, pp. 4885–4894.
+[77] Y. Li, Y. Chen, N. Wang, and Z.-X. Zhang, "Scale-aware trident networks for object detection," in ICCV, 2019, pp. 6053–6062.
+[78] C. Yang, Z. Huang, and N. Wang, "Querydet: Cascaded sparse query for accelerating high-resolution small object detection," in CVPR, 2022, pp. 13 668–13 677.
+[79] B. Singh and L. S. Davis, "An analysis of scale invariance in object detection-snip," in CVPR, 2018, pp. 3578–3587.
+[80] B. Singh, M. Najibi, and L. S. Davis, "Sniper: Efficient multi-scale training," in NeurIPS, vol. 31, 2018.
+[81] M. Najibi, B. Singh, and L. Davis, "Autofocus: Efficient multiscale inference," in ICCV, 2019, pp. 9745–9755.
+[82] Y. Chen et al., "Dynamic scale training for object detection," arXiv preprint arXiv:2004.12432, 2020.
+[83] S. Liu, L. Qi, H. Qin, J. Shi, and J. Jia, "Path aggregation network for instance segmentation," in CVPR, 2018, pp. 8759–8768.
+[84] P. Zhou, B. Ni, C. Geng, J. Hu, and Y. Xu, "Scale-transferrable object detection," in CVPR, 2018, pp. 528–537.
+[85] J. Wang, Y. Yuan, and G. Yu, "Face attention network: An effective face detector for the occluded faces," arXiv preprint arXiv:1711.07246, 2017.
+[86] H. Zhang, K. Wang, Y. Tian, C. Gou, and F.-Y. Wang, "Mfrcnn: Incorporating multi-scale features and global information for traffic object detection," IEEE Trans. Veh. Technol., vol. 67, no. 9, pp. 8019–8030, 2018.
+[87] S. Woo, S. Hwang, and I. S. Kweon, "Stairnet: Top-down semantic aggregation for accurate one shot detection," in WACV, 2018, pp. 1093–1102.
+[88] C.-Y. Fu, W. Liu, A. Ranga, A. Tyagi, and A. C. Berg, "Dssd: Deconvolutional single shot detector," arXiv preprint arXiv:1701.06659, 2017.
+[89] Z. Liu, G. Gao, L. Sun, and L. Fang, "Ipg-net: Image pyramid guidance network for small object detection," in CVPRW, 2020, pp. 4422–4430.
+[90] Y. Gong, X. Yu, Y. Ding, X. Peng, J. Zhao, and Z. Han, "Effective fusion factor in fpn for tiny object detection," in WACV, 2021, pp. 1159–1167.
+[91] S. Liu, D. Huang, and Y. Wang, "Learning spatial fusion for single-shot object detection," arXiv preprint arXiv:1911.09516, 2019.
+[92] M. Hong, S. Li, Y. Yang, F. Zhu, Q. Zhao, and L. Lu, "Sspnet: Scale selection pyramid network for tiny person detection from uav images," IEEE Geosci. Remote. Sens. Lett., vol. 19, pp. 1–5, 2021.
+[93] A. Borji and L. Itti, "State-of-the-art in visual attention modeling," TPAMI, vol. 35, no. 1, pp. 185–207, 2012.
+[94] M. Corbetta and G. L. Shulman, "Control of goal-directed and stimulus-driven attention in the brain," Nat. Rev. Neurosci, vol. 3, no. 3, pp. 201–215, 2002.
+[95] X. Wang, R. Girshick, A. Gupta, and K. He, "Non-local neural networks," in CVPR, 2018, pp. 7794–7803.
+[96] S. Woo, J. Park, J.-Y. Lee, and I. S. Kweon, "Cbam: Convolutional block attention module," in ECCV, 2018, pp. 3–19.
+[97] J. Hu, L. Shen, and G. Sun, "Squeeze-and-excitation networks," in CVPR, 2018, pp. 7132–7141.
+[98] M. Jaderberg, K. Simonyan, A. Zisserman et al., "Spatial transformer networks," in NeurIPS, 2015, pp. 2017–2025.
+[99] A. Vaswani et al., "Attention is all you need," in NeurIPS, 2017, pp. 6000–6010.
+[100] C. Feng, Y. Zhong, Y. Gao, M. R. Scott, and W. Huang, "Tood: Task-aligned one-stage object detection," in ICCV, 2021, pp. 34903499.
+[101] Z. Huang, X. Wang, L. Huang, C. Huang, Y. Wei, and W. Liu, "Ccnet: Criss-cross attention for semantic segmentation," in ICCV, 2019, pp. 603–612.
+[102] X. Yang, J. Yang, J. Yan, Y. Zhang, T. Zhang, Z. Guo, X. Sun, and K. Fu, "Scrdet: Towards more robust detection for small, cluttered and rotated objects," in ICCV, 2019, pp. 8231–8240.
+[103] J. Fu, X. Sun, Z. Wang, and K. Fu, "An anchor-free method based on feature balancing and refinement network for multiscale ship detection in sar images," IEEE Trans. Geosci. Remote Sens., vol. 59, no. 2, pp. 1331–1344, 2021.
+[104] K. Yi, Z. Jian, S. Chen, and N. Zheng, "Feature selective small object detection via knowledge-based recurrent attentive neural network," arXiv preprint arXiv:1803.05263, 2018.
+[105] X. Lu, J. Ji, Z. Xing, and Q. Miao, "Attention and feature fusion ssd for remote sensing object detection," IEEE Transactions on Instrumentation and Measurement, pp. 1–9, 2021.
+[106] Q. Ran, Q. Wang, B. Zhao, Y. Wu, S. Pu, and Z. Li, "Lightweight oriented object detection using multiscale context and enhanced channel attention in remote sensing images," IEEE J. Sel. Topics Appl. Earth Observ., vol. 14, pp. 5786–5795, 2021.
+[107] Y. Li, Q. Huang, X. Pei, Y. Chen, L. Jiao, and R. Shang, "Crosslayer attention network for small object detection in remote sensing imagery," IEEE J. Sel. Topics Appl. Earth Observ., vol. 14, pp. 2148–2161, 2021.
+[108] J. Wang, K. Chen, R. Xu, Z. Liu, C. C. Loy, and D. Lin, "Carafe: Content-aware reassembly of features," in ICCV, 2019, pp. 30073016.
+[109] J. Wu, C. Zhou, Q. Zhang, M. Yang, and J. Yuan, "Self-mimic learning for small-scale pedestrian detection," in ACM MM, 2020, pp. 2012–2020.
+[110] J. U. Kim, S. Park, and Y. M. Ro, "Robust small-scale pedestrian detection with cued recall via memory learning," in ICCV, 2021, pp. 3030–3039.
+[111] W. Shi et al., "Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network," in CVPR, 2016, pp. 1874–1883.
+[112] C. Deng, M. Wang, L. Liu, Y. Liu, and Y. Jiang, "Extended feature pyramid network for small object detection," TMM, vol. 24, pp. 1968–1979, 2021.
+[113] X. Pan et al., "Self-supervised feature augmentation for large image object detection," TIP, vol. 29, pp. 6745–6758, 2020.
+[114] I. J. Goodfellow et al., "Generative adversarial nets," in NeurIPS, 2014, pp. 2672–2680.
+[115] J. Rabbi, N. Ray, M. Schubert, S. Chowdhury, and D. Chao, "Small-object detection in remote sensing images with end-toend edge-enhanced gan and object detector network," Remote Sensing, vol. 12, no. 9, 2020.
+[116] S. M. A. Bashir and Y. Wang, "Small object detection in remote sensing images with residual feature aggregation-based superresolution and object detector network," Remote Sensing, vol. 13, no. 9, 2021.
+[117] Y. Bai, Y. Zhang, M. Ding, and B. Ghanem, "Sod-mtgan: Small object detection via multi-task generative adversarial network," in ECCV, 2018, pp. 210–226.
+[118] ——, "Finding tiny faces in the wild with generative adversarial network," in CVPR, 2018, pp. 21–30.
+[119] B. Na and G. C. Fox, "Object detection by a super-resolution method and a convolutional neural networks," in BigData, 2018, pp. 2263–2269.
+[120] J. Noh, W. Bae, W. Lee, J. Seo, and G. Kim, "Better to follow, follow to be better: Towards precise supervision of feature superresolution for small object detection," in ICCV, 2019, pp. 97249733.
+[121] S. K. Divvala, D. Hoiem, J. H. Hays, A. A. Efros, and M. Hebert, "An empirical study of context in object detection," in CVPR, 2009, pp. 1271–1278.
+[122] J. Li, X. Liang, Y. Wei, T. Xu, J. Feng, and S. Yan, "Perceptual generative adversarial networks for small object detection," in CVPR, 2017, pp. 1951–1959.
+[123] A. Torralba, "Contextual priming for object detection," IJCV, vol. 53, no. 2, pp. 169–191, 2003.
+[124] X. Tang, D. K. Du, Z. He, and J. Liu, "Pyramidbox: A context-assisted single shot face detector," in ECCV, 2018, pp. 812–828.
+[125] D. Parikh, C. L. Zitnick, and T. Chen, "Exploring tiny images: The roles of appearance and contextual information for machine and human object recognition," TPAMI, vol. 34, no. 10, pp. 1978–1991, 2011.
+[126] H. Zhang, K. Dana, J. Shi, Z. Zhang, X. Wang, A. Tyagi, and A. Agrawal, "Context encoding for semantic segmentation," in CVPR, 2018, pp. 7151–7160.
+[127] K. Chen et al., "Hybrid task cascade for instance segmentation," in CVPR, 2019, pp. 4969–4978.
+[128] P. Hu and D. Ramanan, "Finding tiny faces," in CVPR, 2017, pp. 951–959.
+[129] X. Liang, J. Zhang, L. Zhuo, Y. Li, and Q. Tian, "Small object detection in unmanned aerial vehicle images using feature fusion and scaling-based single shot detector with spatial context analysis," TCSVT, vol. 30, no. 6, pp. 1758–1770, 2020.
+[130] X. Hu, X. Xu, Y. Xiao, H. Chen, S. He, J. Qin, and P.-A. Heng, "Sinet: A scale-insensitive convolutional neural network for fast vehicle detection," IEEE Trans. Intell. Transp. Syst., vol. 20, no. 3, pp. 1010–1019, 2019.
+[131] S. Bell, C. L. Zitnick, K. Bala, and R. Girshick, "Inside-outside net: Detecting objects in context with skip pooling and recurrent neural networks," in CVPR, 2016, pp. 2874–2883.
+[132] Q. V. Le, N. Jaitly, and G. E. Hinton, "A simple way to initialize recurrent networks of rectified linear units," arXiv preprint arXiv:1504.00941, 2015.
+[133] J. Pang, C. Li, J. Shi, Z. Xu, and H. Feng, "R2 -cnn: Fast tiny object detection in large-scale remote sensing images," IEEE Trans. Geosci. Remote Sens., vol. 57, no. 8, pp. 5512–5524, 2019.
+[134] G. Zhang, S. Lu, and W. Zhang, "Cad-net: A context-aware detection network for objects in remote sensing imagery," IEEE Trans. Geosci. Remote Sens., vol. 57, no. 12, pp. 10 015–10 024, 2019.
+[135] F. Yang, H. Fan, P. Chu, E. Blasch, and H. Ling, "Clustered object detection in aerial images," in ICCV, 2019, pp. 8311–8320.
+[136] C. Duan, Z. Wei, C. Zhang, S. Qu, and H. Wang, "Coarse-grained density map guided object detection in aerial images," in ICCVW, 2021, pp. 2789–2798.
+[137] C. Li, T. Yang, S. Zhu, C. Chen, and S. Guan, "Density map guided object detection in aerial images," in CVPRW, 2020, pp. 737–746.
+[138] Y. Wang, Y. Yang, and X. Zhao, "Object detection using clustering algorithm adaptive searching regions in aerial images," in ECCV, 2020, pp. 651–664.
+[139] X. Wang, Z. Yang, J. Wu, Y. Zhao, and Z. Zhou, "Edgeduet: Tiling small object detection for edge assisted autonomous mobile vision," in INFOCOM, 2021, pp. 1–10.
+[140] O. C. Koyun, R. K. Keser, Ibrahim Batuhan Akkaya, and B. U. Töreyin, "Focus-and-detect: A small object detection framework for aerial images," Signal Process. Image Commun., vol. 104, p. 116675, 2022.
+[141] F. Ozge Unel, B. O. Ozkalayci, and C. Cigla, "The power of tiling for small object detection," in CVPRW, 2019, pp. 582–591.
+[142] M. Braun, S. Krebs, F. Flohr, and D. M. Gavrila, "Eurocity persons: A novel benchmark for person detection in traffic scenes," TPAMI, vol. 41, no. 8, pp. 1844–1861, 2019.
+[143] S. Zhang, Y. Xie, J. Wan, H. Xia, S. Z. Li, and G. Guo, "Widerperson: A diverse dataset for dense pedestrian detection in the wild," TMM, vol. 22, no. 2, pp. 380–393, 2020.
+[144] C. Xu, J. Wang, W. Yang, H. Yu, L. Yu, and G.-S. Xia, "Detecting tiny objects in aerial images: A normalized wasserstein distance and a new benchmark," ISPRS J. Photogramm. Remote Sens., vol. 190, pp. 79–93, 2022.
+[145] G. Cheng, J. Wang, K. Li, X. Xie, C. Lang, Y. Yao, and J. Han, "Anchor-free oriented proposal generator for object detection," IEEE Trans. Geosci. Remote Sens., vol. 60, pp. 1–11, 2022.
+[146] Z. Zhu, D. Liang, S. Zhang, X. Huang, B. Li, and S. Hu, "Trafficsign detection and classification in the wild," in CVPR, 2016, pp. 2110–2118.
+[147] P. Zhu, L. Wen, D. Du, X. Bian, H. Fan, Q. Hu, and H. Ling, "Detection and tracking meet drones challenge," TPAMI, pp. 1–1, 2021.
+[148] F. Larsson and M. Felsberg, "Using fourier descriptors and spatial models for traffic sign recognition," in SCIA, 2011, pp. 238–249.
+[149] A. Mogelmose, M. M. Trivedi, and T. B. Moeslund, "Vision-based traffic sign detection and analysis for intelligent driver assistance systems: Perspectives and survey," TITS, vol. 13, no. 4, pp. 14841497, 2012.
+[150] S. Houben, J. Stallkamp, J. Salmen, M. Schlipsing, and C. Igel, "Detection of traffic signs in real-world images: The German Traffic Sign Detection Benchmark," in IJCNN, no. 1288, 2013.
+[151] K. Behrendt, L. Novak, and R. Botros, "A deep learning approach to traffic lights: Detection, tracking, and classification," in ICRA, 2017, pp. 1370–1377.
+[152] H. Zhu, X. Chen, W. Dai, K. Fu, Q. Ye, and J. Jiao, "Orientation robust object detection in aerial images using deep convolutional neural network," in ICIP, 2015, pp. 3735–3739.
+[153] S. Razakarivony and F. Jurie, "Vehicle detection in aerial imagery: A small target detection benchmark," J. Vis. Commun, vol. 34, pp. 187–203, 2016.
+[154] D. Lam et al., "xview: Objects in context in overhead imagery," arXiv preprint arXiv:1802.07856, 2018.
+[155] H. Yu, G. Li, W. Zhang, Q. Huang, D. Du, Q. Tian, and N. Sebe, "The unmanned aerial vehicle benchmark: Object detection, tracking and baseline," IJCV, vol. 128, no. 5, pp. 1141–1159, 2020.
+[156] Q. Wang, J. Gao, W. Lin, and X. Li, "Nwpu-crowd: A large-scale benchmark for crowd counting and localization," TPAMI, vol. 43, no. 6, pp. 2141–2149, 2021.
+[157] Y. Pang, J. Cao, Y. Li, J. Xie, H. Sun, and J. Gong, "Tju-dhd: A diverse high-resolution dataset for object detection," TIP, vol. 30, pp. 207–219, 2021.
+[158] J. Han et al., "Soda10m: A large-scale 2d self/semi-supervised object detection dataset for autonomous driving," arXiv preprint arXiv:2106.11118, 2021.
+[159] M.-R. Hsieh, Y.-L. Lin, and W. H. Hsu, "Drone-based object counting by spatially regularized regional proposal network," in ICCV, 2017, pp. 4165–4173.
+[160] Z. Cai and N. Vasconcelos, "Cascade r-cnn: High quality object detection and instance segmentation," TPAMI, vol. 43, no. 5, pp. 1483–1498, 2021.
+[161] Z. Ge, S. Liu, F. Wang, Z. Li, and J. Sun, "Yolox: Exceeding yolo series in 2021," arXiv preprint arXiv:2107.08430, 2021.
+[162] Z. Yang, S. Liu, H. Hu, L. Wang, and S. Lin, "Reppoints: Point set representation for object detection," in ICCV, 2019, pp. 96569665.
+[163] S. Zhang, C. Chi, Y. Yao, Z. Lei, and S. Z. Li, "Bridging the gap between anchor-based and anchor-free detection via adaptive training sample selection," in CVPR, 2020, pp. 9759–9768.
+[164] P. Sun et al., "Sparse r-cnn: End-to-end object detection with learnable proposals," in CVPR, 2021, pp. 14 449–14 458.
+[165] K. Chen et al., "MMDetection: Open mmlab detection toolbox and benchmark," arXiv preprint arXiv:1906.07155, 2019.
+[166] Y. Zhou et al., "Mmrotate: A rotated object detection benchmark using pytorch," arXiv preprint arXiv:2204.13317, 2022.
+[167] Z. Liu, Y. Lin, Y. Cao, H. Hu, Y. Wei, Z. Zhang, S. Lin, and B. Guo, "Swin transformer: Hierarchical vision transformer using shifted windows," in ICCV, 2021, pp. 9992–10 002.
+[168] Z. Liu et al., "A convnet for the 2020s," in CVPR, 2022, pp. 11 97611 986.
+[169] J. Ding, N. Xue, Y. Long, G.-S. Xia, and Q. Lu, "Learning roi transformer for oriented object detection in aerial images," in CVPR, 2019, pp. 2844–2853.
+[170] Y. Xu, M. Fu, Q. Wang, Y. Wang, K. Chen, G.-S. Xia, and X. Bai, "Gliding vertex on the horizontal bounding box for multioriented object detection," TPAMI, vol. 43, no. 4, pp. 1452–1459, 2021.
+[171] X. Xie, G. Cheng, J. Wang, X. Yao, and J. Han, "Oriented r-cnn for object detection," in ICCV, 2021, pp. 3520–3529.
+[172] J. Han, J. Ding, J. Li, and G.-S. Xia, "Align deep features for oriented object detection," IEEE Trans. Geosci. Remote Sens., vol. 60, pp. 1–11, 2022.
+[173] G. Cheng, Y. Yao, S. Li, K. Li, X. Xie, J. Wang, X. Yao, and J. Han, "Dual-aligned oriented detector," IEEE Trans. Geosci. Remote Sens., vol. 60, pp. 1–11, 2022.
+[174] W. Li, Y. Chen, K. Hu, and J. Zhu, "Oriented reppoints for aerial object detection," in CVPR, 2022, pp. 1829–1838.
+[175] G. Nie and H. Huang, "Multi-oriented object detection in aerial images with double horizontal rectangles," TPAMI, pp. 1–13, 2022.
+[176] X. Zhang, F. Wan, C. Liu, R. Ji, and Q. Ye, "Freeanchor: Learning to match anchors for visual object detection," NeurIPS, vol. 32, 2019.
+[177] B. Zhu, J. Wang, Z. Jiang, F. Zong, S. Liu, Z. Li, and J. Sun, "Autoassign: Differentiable label assignment for dense object detection," arXiv preprint arXiv:2007.03496, 2020.
+[178] B. Li, Y. Liu, and X. Wang, "Gradient harmonized single-stage detector," in AAAI, vol. 33, no. 01, 2019, pp. 8577–8584.
+[179] X. Li, W. Wang, L. Wu, S. Chen, X. Hu, J. Li, J. Tang, and J. Yang, "Generalized focal loss: Learning qualified and distributed bounding boxes for dense object detection," NeurIPS, vol. 33, pp. 21 002–21 012, 2020.
+[180] M. Kim, A. K. Jain, and X. Liu, "Adaface: Quality adaptive margin for face recognition," in CVPR, 2022, pp. 18 750–18 759.
+
+
